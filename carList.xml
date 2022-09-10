@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CarList lastId="3">
+                        
+    
+    
+    
+    
+    <Car id="1">
+                                                
+        
+        
+        
+        
+        <model>qwerty</model>
+                                                
+        
+        
+        
+        
+        <color>red</color>
+                                                
+        
+        
+        
+        
+        <number>123456</number>
+                                                
+        
+        
+        
+        
+        <name>tyuio</name>
+                                                
+        
+        
+        
+        
+        <surname>dfghjk</surname>
+                                            
+    
+    
+    
+    
+    </Car>
+                    
+    
+    
+    
+    
+            
+
+
+    
+    <Car id="3">
+                
+        <model>qwerty</model>
+                
+        <color>red</color>
+                
+        <number>123456</number>
+                
+        <name>tyuio</name>
+                
+        <surname>dfghjk</surname>
+            
+    </Car>
+    
+</CarList>
